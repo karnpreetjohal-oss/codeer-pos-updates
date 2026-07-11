@@ -1,0 +1,11 @@
+{
+  "product": "Codeer POS",
+  "channel": "stable",
+  "version": "1.2.0",
+  "fileName": "codeer-pos-update-1.2.0.zip",
+  "downloadUrl": "https://github.com/karnpreetjohal-oss/codeer-pos-updates/releases/download/v1.2.0/codeer-pos-update-1.2.0.zip",
+  "sha256": "8A83EB8F7DF6351B7C870DC8571E8165B5C8E66395F7AB6344BA6A9AFA146353",
+  "sizeBytes": 271394376,
+  "trialDays": 60,
+  "instructions": "Extract the zip on Windows and run Install Codeer POS.cmd. Start the free trial on first launch."
+}
